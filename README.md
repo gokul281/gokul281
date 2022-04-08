@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development and Programming in Python.
 - 🌱 I’m currently learning what I'm interested in.
 - 💞️ I’m looking to collaborate on nothing just learning.
-- 📫 How to reach me 
+- 📫 How to reach me through LinkedIn : linkedin.com/in/gokul-chiruthanur-a04799223
 
 <!---
 gokul281/gokul281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
